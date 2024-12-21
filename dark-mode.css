@@ -1,0 +1,109 @@
+/* Base styling */
+body, .ant-layout, .ant-layout-content {
+    background-color: #121212 !important;
+    color: #ffffff !important;
+  }
+  
+  /* Navbar */
+  .header, .header__nav {
+    background-color: #1e1e1e !important;
+  }
+  
+  /* Sidebar */
+  .side-bar, .side-bar__nav {
+    background-color: #1e1e1e !important;
+  }
+  
+  /* Problem area */
+  .code-area, .editor {
+    background-color: #2e2e2e !important;
+    color: #ffffff !important;
+  }
+  
+  /* Inputs and buttons */
+  input, button {
+    background-color: #3e3e3e !important;
+    color: #ffffff !important;
+  }
+  
+  /* Links */
+  a {
+    color: #3d9df5 !important;
+  }
+  
+  /* Code Editor */
+  .CodeMirror {
+    background-color: #1e1e1e !important;
+    color: #d4d4d4 !important;
+  }
+  
+  /* Adjust other elements as needed */
+  /* Base Styling */
+body, html, .ant-layout, .ant-layout-content, .ant-layout-header, .ant-layout-footer {
+    background-color: #121212 !important;
+    color: #e0e0e0 !important;
+  }
+  
+  /* Navbar */
+  .header, .header__nav, .ant-layout-header {
+    background-color: #1e1e1e !important;
+    border-bottom: 1px solid #333 !important;
+  }
+  
+  /* Sidebar */
+  .side-bar, .side-bar__nav, .ant-menu {
+    background-color: #1e1e1e !important;
+    color: #e0e0e0 !important;
+  }
+  
+  /* Problem Area */
+  .code-area, .editor, .ant-card, .ant-card-body {
+    background-color: #2e2e2e !important;
+    color: #ffffff !important;
+  }
+  
+  /* Inputs and Buttons */
+  input, textarea, button, .ant-btn {
+    background-color: #3e3e3e !important;
+    color: #ffffff !important;
+    border: 1px solid #555 !important;
+  }
+  
+  /* Links */
+  a {
+    color: #3d9df5 !important;
+  }
+  
+  /* Code Editor */
+  .CodeMirror, .monaco-editor {
+    background-color: #1e1e1e !important;
+    color: #d4d4d4 !important;
+  }
+  
+  /* Tables */
+  table, th, td {
+    background-color: #1e1e1e !important;
+    border: 1px solid #444 !important;
+    color: #ffffff !important;
+  }
+  
+  /* Modals */
+  .ant-modal-content {
+    background-color: #2e2e2e !important;
+    color: #ffffff !important;
+  }
+  
+  /* Dropdowns */
+  .ant-dropdown-menu, .ant-select-dropdown {
+    background-color: #2e2e2e !important;
+    color: #ffffff !important;
+  }
+  
+  /* Tooltip */
+  .ant-tooltip-inner {
+    background-color: #333 !important;
+    color: #fff !important;
+  }
+  
+  /* Adjust any additional elements as needed */
+  
